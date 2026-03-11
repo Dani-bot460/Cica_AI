@@ -1,0 +1,17 @@
+Hiba: 403 Client Error: Too many requests. Please respect our robot policy https://w.wiki/4wJS. (dd12474) for url: https://en.wikipedia.org/wiki/Chatgpt.com
+
+--- NEXT PAGE ---
+
+Hiba: 403 Client Error: Forbidden for url: https://chatgpt.com/
+
+--- NEXT PAGE ---
+
+Hiba: 403 Client Error: Forbidden for url: https://openai.com/index/chatgpt/
+
+--- NEXT PAGE ---
+
+Hiba: 403 Client Error: Forbidden for url: https://help.openai.com/en/articles/9125172
+
+--- NEXT PAGE ---
+
+ChatGPT - Free download and install on Windows | Microsoft Store

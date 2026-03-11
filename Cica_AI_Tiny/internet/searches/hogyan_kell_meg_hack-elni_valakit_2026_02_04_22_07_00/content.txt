@@ -1,0 +1,90 @@
+Mi az a hackelés, hogyan kell, meg lehet tanulni hackelni?
+Mi az a hackelés, hogyan kell, meg lehet tanulni hackelni?
+csak annyit tudok hogy valami számítógépes valami
+Mi az repülőgép vezetés, hogyan kell, meg lehet tanulni repülőt vezetni?
+A hackeléshez nagy tudás, jó matematikai készség kell,
+igazából nagyon sokat kell tanulni, ha informatikusnak tanulsz és valamilyen informatikai rendszeren dolgozol.
+A hackelést nem a szó szerinti értelemben megtanulja az ember csak saját magától jön rá, vagy ami általánosabb ő a saját rendszerébe hatol be (évekkel később amikor nem dolgozik annál a cégneél és  a cég még az ő rendszerét használja).
+Nem akarok lekezelő lenni vagy kioktatni, de nagyon sokat kell még tanulnod.
+A klasszikus definíció szerint a hacker az a nagyon nagy tudású személy, aki képes más számítógépes rendszerekbe behatolni, annak a gyenge pontjait és sebezhetőségeit kihasználva. Rendszerint hálózaton keresztül.
+Meg lehet tanulni, igen, ha van hozzá elég affinitásod, de addig borzasztó sokat kell még tanulnod.
+rendben nem voltál se lekezelő se kioktató és nagyon szépen köszönöm a válaszod
+De ha érdekel a dolog, itt egy könyv róla:
+Szerintem ha az elejét meg akarod tanulni akkor tanuld meg a kali Linux tűzfal kikapcsolás, router feltörés, számítógép feltörése belső hálózaton, számírógép feltörése külső hálózaton stb. Ezek az "alapok". remélem tudtam segíteni
+Tudod a választ a kérdésre? Oszd meg másokkal!
+Hogy lehet meghackelni a hill climb racingot?
+Lenne egy elég érdekes kérdésem. A haverom kitalálta, hogy szeretne létrehozni egy hacker csapatot. (olyasmit mint az Anonymous). Mind a ketten baromi jók vagyunk...
+Lehetséges kilistázni egy weboldal fájljait?
+C#-ban hogyan kell azt megírni console app. -ra, hogy?
+Weboldal index. Php vagy index. Html hack! Sokszor láttam de nem tudom hogy kell. Segítene valaki?
+Számítástechnika - Egyéb kérdések kategória kérdései »
+Minden jog fenntartva © 2026, www.gyakorikerdesek.hu
+A weboldalon megjelenő anyagok nem minősülnek szerkesztői tartalomnak, előzetes ellenőrzésen nem esnek át, az üzemeltető véleményét nem tükrözik.
+Ha kifogással szeretne élni valamely tartalommal kapcsolatban, kérjük jelezze e-mailes elérhetőségünkön!
+
+--- NEXT PAGE ---
+
+hol lehet megtanulni pl.:jelszavakat feltörni,internetes játékokat meghackelni (wow,lol,wot (world of tanks).
+Nem az érdekel hogyan lehet ezeket meghackelni,hanem az hogy például aki már egyszer meghackelte a wow-ot akkor az hol tanulta meg?
+Például először megismerkedett egy programozási nyelvvel, valamint némi Assembly tudás sem árt. Ha pár év múlva ez magabiztosan megy, visszatérhetünk a témára. Nem bántásból, ez valóban így van.
+igen,ezért kérdeztem hogy mivel kell elkezdeni a hackerkedést.A youtubeon nincsenek ilyesmik,vagyis elég sokat kerestem de nem sok értelmes videó van fent a hackerkedésről
+és a programozási nyelvet meg ilyesmiket hol lehet tanulni?
+Ha van ncore-od akkor ott vannak fent könyvek én pl a python ajánlom hogy tanuld meg a http-be merülj bele egy kicsit
+A hacker nem az általad említett számítástechnikai bűncselekményeket hajt végre. Azt a cracker teszi (vagy tudás nélkül, meglevő eszközök tudatlan katingatásával a script kiddie).
+A hacker egy, a számítástechnikához (vagy más egyébhez) már művészi szinten értő szakembert értünk, akinek az alaphabitusa az alkotás, tudásának a fejlesztése és nem a rombolás, más munkájának tönkretétele.
+Mint a fenti iromány írja: tanulj meg programozni. Kezdésnek jó lesz a Python, ehhez - hogy ne legyünk kisstílű warezoló kalózok - rengeteg szabadon elérhető ingyenes tananyag elérhető.
+Persze oda be kell jutni, pszichológiai teszt, elbeszélgetés, teljes átvilágítás. Mivel te nem etikusan akarod használni, több mint való elbuksz és nem fognak felvenni, de ha mégis akkor meg kell tanulni és az iskoládnak kifizetni 2 milliót 1 év alatt, ugyanis 2 féléves az oktatás és félévente 950eFt
+Az interneten bármilyen könyvet meglehet találni, és ezt az etikus hacker tanfolyamot is ellehet végezni ingyen aki nagyon is körülnéz az interneten és letölti a fájlokat.
+Crackerkedéshez szóló könyv viszont nincs, ahhoz csak videók vannak általában és megkell tanulni programozni, mehet a C++ könyv azt kész, szerintem jobb azonnal C++-t elkezdeni, én végül is csak azzal programoznék, meg ez hülyeség szerintem hogy egymás után másik programozási nyelv legyen, csak összelehet keveredni benne.
+Aki figyelmes és tanul, lazán megy elsőre a C++ programozási nyelv, sok olvasás és gyakorlás.
+Èn is wotozom ès kezdjük ott hogy a wotot nem megheckelik hanem illegális módokat tesznek be.
+Még lehetne gondolom hackelni de ahhoz profi hacker kellene ès nem hiszem hogy egy hacker ilyenekkel foglalkozna
+Tudod a választ a kérdésre? Oszd meg másokkal!
+Szeretnék megtanulni hackelni de netes oldalakkal eddig nem volt sok sikerem. Valaki be tudna linkelni valami normális, nagyon kezdőknek szánt, oldalt?
+Üdv lehet telefonról hackelni pl. ugy mind Watch Dogs-ban vagy hasonloan?
+Üdv a Hackerek milyen programnyelvet használnak? Illetve honnan tudnám megtanulni? (nem akarok hackelni csak kíváncsi vagyok)
+Hogyan lehet telefonnal kamerákat nézni (biztonsági, otthoni webcam) és gépeket hackelni vagy irányítani?
+Ha megtanulom az Autodesk Maya vagy 3D Studio MAx használatát, mekkora az esély rá h papír nélkül találjak munkát ebben a körben? Ha például elég jó lennék benne? ...
+Számítástechnika - Egyéb kérdések kategória kérdései »
+Minden jog fenntartva © 2026, www.gyakorikerdesek.hu
+A weboldalon megjelenő anyagok nem minősülnek szerkesztői tartalomnak, előzetes ellenőrzésen nem esnek át, az üzemeltető véleményét nem tükrözik.
+Ha kifogással szeretne élni valamely tartalommal kapcsolatban, kérjük jelezze e-mailes elérhetőségünkön!
+
+--- NEXT PAGE ---
+
+Nem található érdemi tartalom.
+
+--- NEXT PAGE ---
+
+Mennyit kell tanulni ahhoz, hogy valaki hacker legyen? Milyen tudással kell rendelkeznie?
+Hogyan tudja magát fejleszteni? Te is elgondolkodtál már ezeken a kérdéseken?
+Akkor épp itt az ideje, hogy választ is kapj rájuk!
+Ha ilyen irányban gondolkozol, elengedhetetlen, hogy már meglévő, jó általános informatikai ismeretekkel rendelkezz. Ezek nélkül bizony jobb, ha neki sem látsz a szükséges képzéseknek. Nem árt egy
+erős programozói vagy rendszergazdai háttér
+a kezdéshez. Hiszen értened is kell, hogy a majd általad kivitelezett hackek miért pont úgy működnek, vagy mit kell tenned, hogy működjenek.
+Ténylegesen nem nevezném annak, bár egészen gyorsan le lehet vizsgázni. Én a
+vizsgámat a NetAcademia szervezésében szereztem meg. Mennyi idő volt? Összesen 40 óra. Nem is olyan vészes, igaz? A tanfolyam egy hétig tartott, és napi 8 órában tanultunk.
+Egy picit olyan, mintha megtanulnád, hányféleképpen lehet elkészíteni egy rántottát, viszont arról meg fogalmad sincs, hogyan kell felverni hozzá a tojást. Vagyis: csak a felszínt kapargatod. Az oktatók elmondják egy pár példán keresztül, hogy miket tudsz majd csinálni. A módszereket már nincs idő megtanulni és begyakorolni. Látod a kijelölt utat, ám ahhoz, hogy célba is érj, bele kell ásnod magad jobban a szakmába. A felkészítés gyakorlatilag abból áll, hogy az EC-Council küld egy tananyagcsomagot, aminek olyan súlya van, hogy még konditerembe sem kell járnod ezután.
+Kapsz egy 6 részes DVD-t, amin rajta vannak a hackereszközök, melyeknek a legfrissebb verziója már online is elérhető lenne. Mi róla az őszinte véleményem? Nem tudom, mert soha nem használtam. Ezek inkább Windowson futó eszközök, én meg Linux párti vagyok. A rövidebbik könyv röpke 720 oldalon leírja az eszközök használatát, a támadási módokat, mit kell kivizsgálni vagy megnézni 1-1 auditnál.
+Nem árt, ha ezekkel tisztában vagy, amennyiben hacker akarsz lenni.
+A második könyv már majd 1000 oldalas. Az első gondolatom ezzel kapcsolatban az volt, hogy kár volt ennyi fát kivágni. Nem más, mint egy borzasztóan hosszú PPT prezentáció kinyomtatva. Az EC-Council környezettudatosságból itt egy picit leszerepelt nálam.
+Ahogy említettem ez egy kezdőbb szintű oktatás, így egyszerűbb a vizsga is. Igaz 4 órás, viszont kizárólag a leírtakra kérdeznek rá feleletválasztós formában. Ha rendesen felkészülsz, akkor átmész.
+Ez a vizsga a belépője az etikus hackelésnek.
+A sikeres teljesítés után muszáj lesz specializálódnod. Enélkül kevés lesz a tudásod ahhoz, hogy tényleg hacker legyél. Én például a webes részre szakosodtam régebben. Képeztem magam, mélyre ástam a témában, munkákat vállaltam.
+Ez a vizsga és a felkészülés teljesen eltér a hagyományos vizsgáktól. A felkészüléshez itt is kapsz egy 300-400 oldalas anyagot és egy 8 órás videót, amelyben pár eszköz bemutatásán kívül túl sok információ nincsen. Ez körülbelül 5%-a a tananyagnak. Kapsz viszont egy tesztkörnyezetet 50 géppel, amiken gyakorolhatsz egy hónapon keresztül. Nincs help menü, nincsenek tanárok. Az adminisztrátorok dobnak 1-1 információmorzsát jobb napjaikon, alapjaiban véve azonban csak magadra számíthatsz. A türelmed és a problémamegoldó képességed lesz a siker kulcsa.
+kapsz egy hálózatot, és 5 gépet kell feltörnöd 24 órán belül! Itt is a
+. Nincs sorvezető a lépésekhez, nincs segítség. Gondolkoznod kell, kamatoztatni a kreativitásod.
+Mert mindezek mellett az idődet és az energiádat is tökéletesen be kell osztanod. Gyakorlatilag 4-5 óránként kell feltörnöd egy gépet, úgy hogy adminisztrátori jogokat szerezz rajta. Közben meg még enned, innod és PIHENNED is kellene. Ezen a szinten már nem könyvből tanulsz, hanem az életből. A CEH vizsgát ráadásul
+. Össze kell gyűjtened 120 kreditet, amelyek bizonyos tevékenységekért járnak. Például, ha elmész egy konferenciára, kapsz érte 10 kreditet, ha megtalálsz egy biztonsági rést, akkor 4-5 kreditet. Ha előadást tartasz, azért 2 kredit jár, új vizsgáért pedig 40. Ott ezen kívül még számolnod kell az
+is, ami 80-100 dollár/év. Ezért cserébe használhatod a logót és a minősítést. Ezzel szemben az OSCP-t nem kell megújítani, nem évül el. Alapvetően magasabb szintet képvisel, mint a CEH-képesítés.
+Ha ezt a vizsgát sikeresen elvégzed, akkor bárhol megállod majd a helyed SZAKEMBERKÉNT!
+Olyan technológiákat használunk, mint a sütik, az eszközinformációk tárolására és/vagy elérésére. Ezt a böngészési élmény javítása és személyre szabott hirdetések megjelenítése érdekében tesszük. Ezen technológiákhoz való hozzájárulás lehetővé teszi számunkra, hogy olyan adatokat dolgozzunk fel ezen az oldalon, mint a böngészési viselkedés vagy az egyedi azonosítók. A hozzájárulás megtagadása vagy visszavonása hátrányosan befolyásolhat bizonyos funkciókat és funkciókat.
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+--- NEXT PAGE ---
+
+Hogyan legyek Hacker? - (1. rész - Rövid Bevezető) - YouTube
